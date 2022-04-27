@@ -1,3 +1,6 @@
-# lecture08test
+# Lecture 8 Markdown file
 
-# Try
+## This is a title
+
+ - This isn't 
+ - This isnt' either
